@@ -1,6 +1,6 @@
 # Generation ID: Hutch_1765783050952_vxkyyec4j (前半)
 
-def OthelloAI(board, Color):
+def myai(board, Color):
     """
     オセロAIのメイン関数
     ゲーム木を使ってミニマックスアルゴリズムで最適な手を探索
